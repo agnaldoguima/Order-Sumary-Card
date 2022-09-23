@@ -36,19 +36,15 @@ Users should be able to:
 - Live Site URL: [Site Projeto Final](https://agnaldoguimaraes.dev.br/projetos/proj01_card/card.html)
 
 ## My process
+- Comecei desenvolvendo todo o HTML e posteriormente estilizei os itens na tela com CSS, por fim adicionei media query para tratar a responsividade em telas pequenas.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -89,11 +85,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [Portifólio Agnaldo](https://agnaldoguimaraes.dev.br/)
+- Frontend Mentor - [@agnaldoguima](https://www.frontendmentor.io/profile/agnaldoguima)
 
 ## Acknowledgments
 
